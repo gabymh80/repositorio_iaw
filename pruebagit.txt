@@ -3,3 +3,5 @@ Archivo modificado
 
 
 Modificando desde el remoto
+
+Nuestro fichero es el bueno, no nos gustan los conflictos.
