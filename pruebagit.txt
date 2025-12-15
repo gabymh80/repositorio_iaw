@@ -3,3 +3,5 @@ Archivo modificado
 
 
 Modificando desde el remoto
+
+Creando un conflicto
